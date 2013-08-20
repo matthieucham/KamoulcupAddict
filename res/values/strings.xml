@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kamoulcup Addict</string>
+    <string name="action_settings">Settings</string>
+    <string name="dashboard_auctions">Last auctions</string>
+    <string name="dashboard_credits">Credits</string>
+    <string name="auction_results">Last auctions</string>
+    <string name="title_activity_get_auction_results">Last auctions</string>
+    <string name="error_no_network">No network connection is available. Please check your network connectivity settings and try again.</string>
+    <string name="update">Update</string>
+    <string name="getResolutionsFeed">Get last auctions</string>
+    <string name="contacting_server">Contacting server&#8230;</string>
+    <string name="downloading_feed">Downloading&#8230;</string>
+    <string name="processing_feed">Processing data&#8230;</string>
+    <string name="done">Done</string>
+    <string name="watch">Watch</string>
+    <string name="shortcut">Quick !</string>
+    <string name="posteG">Goalkeeper</string>
+    <string name="posteD">Back</string>
+    <string name="posteM">Midfielder</string>
+    <string name="posteA">Forward</string>
+    <string name="noClub">No club</string>
+    <string name="ventePA">Proposed purchase (PA)</string>
+    <string name="venteMV">Put for sale (MV)</string>
+    <string name="venteRE">Released to the bank (RE)</string>
+    <string name="map">Selling price: <b>%1$s</b> by %2$s</string>
+    <string name="cancelled_no_offer">Cancelled: no valid offer</string>
+    <string name="amount">Amount: </string>
+    <string name="gap">Gap: </string>
+    <string name="play_auction">Play</string>
+    <string name="short_auction">Quick !</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_resolutionSpeed">Speed of resolutions</string>
+
+    <string-array name="pref_resolutionSpeed_entries">
+        <item>Slow</item>
+        <item>Medium</item>
+        <item>Fast</item>
+    </string-array>
+    <string-array name="pref_resolutionSpeed_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="picture">Pic</string>
+    <string name="resolution_processing">Processing resolution&#8230;</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="credits">Credits</string>
+    <string name="credits_body_html">The goal of Kamoulcup Addict is to display the latest events that occurred during the ongoing Kamoulcup on your mobile device. Kamoulcup is an online game. Please visit the website to learn more about: &lt;a href="http://www.kamoulcup.com/"&gt;www.kamoulcup.com&lt;/a&gt;&lt;br/&gt;The application icon is courtesy of Siho &lt;a href="http://www.siho.fr/"&gt;www.siho.fr&lt;/a&gt;</string>
+    <string name="select_auction">Please select a player from the list.</string>
+</resources>

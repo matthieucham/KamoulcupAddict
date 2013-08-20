@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kamoulcup Addict</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="dashboard_auctions">Dernières enchères</string>
+    <string name="dashboard_credits">Crédits</string>
+    <string name="auction_results">Dernières enchères</string>
+    <string name="title_activity_get_auction_results">Dernières enchères</string>
+    <string name="error_no_network">Impossible de joindre le réseau. Vérifiez vos paramètres de connexion aux réseaux "data" et réessayez.</string>
+    <string name="update">Mettre à jour</string>
+    <string name="getResolutionsFeed">Récupération des résolutions</string>
+    <string name="contacting_server">Appel du serveur&#8230;</string>
+    <string name="downloading_feed">Téléchargement des données&#8230;</string>
+    <string name="processing_feed">Traitement&#8230;</string>
+    <string name="done">Fin</string>
+    <string name="watch">Voir</string>
+    <string name="shortcut">Abrège !</string>
+    <string name="posteG">Gardien</string>
+    <string name="posteD">Défenseur</string>
+    <string name="posteM">Milieu</string>
+    <string name="posteA">Attaquant</string>
+    <string name="noClub">Sans club</string>
+    <string name="ventePA">Proposition d\'achat</string>
+    <string name="venteMV">Remise en vente</string>
+    <string name="venteRE">Revente à la banque</string>
+    <string name="map">Mise à prix : <b>%1$s</b> par %2$s</string>
+    <string name="cancelled_no_offer">Vente annulée : aucune offre valide</string>
+    <string name="gap">Ecart : </string>
+    <string name="amount">Montant : </string>
+    <string name="play_auction">Voir</string>
+    <string name="short_auction">Abrège !</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="pref_resolutionSpeed">Vitesse de résolution</string>
+    <string-array name="pref_resolutionSpeed_entries">
+        <item>Lente</item>
+        <item>Moyenne</item>
+        <item>Rapide</item>
+    </string-array>
+    <string name="resolution_processing">Résolution en cours&#8230;</string>
+    <string name="title_activity_credits">Crédits</string>
+    <string name="credits">Crédits</string>
+    <string name="credits_body_html">L\'application Kamoulcup Addict sert à afficher sur votre terminal mobile les derniers évènements qui se sont produits dans l\'édition en cours de la Kamoulcup. La Kamoulcup est un jeu en ligne. Visitez le site web pour en savoir plus : &lt;a href="http://www.kamoulcup.com/"&gt;www.kamoulcup.com&lt;/a&gt;&lt;br/&gt;Le logo de l\'application a été réalisé par Siho &lt;a href="http://www.siho.fr/"&gt;www.siho.fr&lt;/a&gt;</string>
+    <string name="select_auction">Choisissez un joueur de la liste.</string>
+</resources>

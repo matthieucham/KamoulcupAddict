@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="pref_resolutionSpeed"
+        android:title="@string/pref_resolutionSpeed"
+        android:dialogTitle="@string/pref_resolutionSpeed"
+        android:entries="@array/pref_resolutionSpeed_entries"
+        android:entryValues="@array/pref_resolutionSpeed_values"
+        android:defaultValue="2" />
+</PreferenceScreen>
